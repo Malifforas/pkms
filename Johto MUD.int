@@ -3,7 +3,7 @@
 MAP_ZOOM: 1.000
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
-WINDOW: johto_mud.dm;multiplayer_battles.dm;save_load.dm;sound_effects.dm;status_effects.dm;starting_pokemon.dm;battles.dm;type_chart.dm
-FILE: battles.dm
+WINDOW: johto_mud.dm;multiplayer_battles.dm;save_load.dm;sound_effects.dm;status_effects.dm;starting_pokemon.dm;battles.dm;type_chart.dm;moves.dm
+FILE: status_effects.dm
 */
 // END_INTERNALS
